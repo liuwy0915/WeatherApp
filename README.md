@@ -1,8 +1,11 @@
 # WeatherApp
 
 ## Weiyi Liu and Weihang Wu
+
+[Link](https://wwhworks.shinyapps.io/WeatherExplore/)
+
 ## Introduction
-This project is a ShinyApp for weather data visualizing and comparison. The link of this ShinyApp is [here](https://wwhworks.shinyapps.io/WeatherExplore/). Introduction of the usage and the reference of background API (OpenWeather API) is shown on the **Guide** page.
+This project is a ShinyApp for weather data visualizing and comparison. Introduction of the usage and the reference of background API (OpenWeather API) is shown on the **Guide** page.
 
 The basic logic of this App is that, we firstly fetch the data satisfying the user's requirements from the API, then generate visualization plots from the fetched data. The visualization contains two parts: The first part **View on Map** provides some visualizations on geographical dimension, and the second part **View by Time** provides some visualizations on time dimension. In the second part, we also provide an automatic temperature forecast by SARIMA time series model.
 
