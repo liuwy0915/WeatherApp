@@ -1,0 +1,12 @@
+name: WeatherExplore
+title: WeatherExplore
+username:
+account: wwhworks
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4039888
+bundleId: 4526208
+url: https://wwhworks.shinyapps.io/WeatherExplore/
+when: 1619544868.50814
+asMultiple: FALSE
+asStatic: FALSE
